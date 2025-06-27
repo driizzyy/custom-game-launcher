@@ -39,7 +39,7 @@ and enjoy!
 
 
 ## 🔗 Links
-![discord](https://img.shields.io/discord/1385975508944027741?style=for-the-badge&label=Discord&link=https%3A%2F%2Fdiscord.gg%2Fbytebunnybot)(https://discord.gg/bytebunnybot)
+[![discord](https://img.shields.io/discord/1385975508944027741?style=for-the-badge&label=Discord&link=https%3A%2F%2Fdiscord.gg%2Fbytebunnybot)](https://discord.gg/bytebunnybot)
 
 
 ## Roadmap
