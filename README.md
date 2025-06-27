@@ -6,7 +6,7 @@ EXO Game Launcher is a custom made python tool that allows you to store, launch,
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-![Downloads](https://img.shields.io/github/downloads/driizzyy/custom-game-launcher)
+![Downloads](https://img.shields.io/github/downloads/driizzyy/custom-game-launcher/main.py)
 
 
 
